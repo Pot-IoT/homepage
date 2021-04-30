@@ -1,6 +1,14 @@
 # homepage
 A repo for hosting Pot-IoT homepage efforts
 
-### `npm install`
+### Setup
 
-### `npm start`
+```bash
+npm install
+```
+
+### Run
+
+```bash
+npm start
+```
