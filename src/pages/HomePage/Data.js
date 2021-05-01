@@ -16,13 +16,26 @@ export const homeObjOne = {
     butLink: 'signup',
     imgStart: '',
     img: 'images/svg-1.svg',
-    // alt: 'Credit Card'
 };
 
 export const homeObjTwo = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
+    topLine: 'DEVICE MANAGEMENT',
+    headline: 'Remote devices control, visualized basic information.',
+    description:
+        'Every device information is being secure stored, you can easily add, delete, edit your remote device and monitoring the basic information in a real time.',
+    buttonLabel: 'none',
+    butLink: '',
+    imgStart: '',
+    img: 'images/svg-2.svg',
+};
+
+export const homeObjThree = {
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
     topLine: 'Safty data hanlding',
     headline: 'In PoT-IoT, we do care about your data.',
     description:
@@ -34,24 +47,9 @@ export const homeObjTwo = {
     buttonLabel: 'none',
     butLink: '',
     imgStart: 'start',
-    img: 'images/svg-4.svg',
-    // alt: 'Vault'
+    img: 'images/svg-3.svg',
 };
 
-export const homeObjThree = {
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
-    topLine: 'DEVICE MANAGEMENT',
-    headline: 'Remote devices control, visualized basic information.',
-    description:
-        'Every device information is being secure stored, you can easily add, delete, edit your remote device and monitoring the basic information in a real time.',
-    buttonLabel: 'none',
-    butLink: '',
-    imgStart: '',
-    img: 'images/svg-2.svg',
-    // alt: 'Vault'
-};
 
 export const homeObjFour = {
     lightBg: false,
@@ -64,6 +62,5 @@ export const homeObjFour = {
     buttonLabel: 'Documentation',
     butLink: 'documentation',
     imgStart: 'start',
-    img: 'images/svg-7.svg',
-    // alt: 'Vault'
+    img: 'images/svg-4.svg',
 };
