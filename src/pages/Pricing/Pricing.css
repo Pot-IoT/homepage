@@ -17,7 +17,7 @@
     text-align:center;
   }
 
-  .color-neutral600 {
+  .color-black {
     color: #232f3e;
   }
 
@@ -33,7 +33,7 @@
   }
 
   @media screen and (max-width: 991px) {
-    .text-top.color-neutral600 {
+    .text-top.color-black {
       padding-right: 30px;
       padding-left: 30px;
       max-width: 100%;
